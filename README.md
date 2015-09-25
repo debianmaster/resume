@@ -1,6 +1,7 @@
 ###  Enterprise Mobile PaaS Architect
+> Equinix  
 > Location : Sunnyvale  
-> Aug 2014 to July 2015  
+> Aug 2014  
 
 ``` json
 - Cloud design patterns, performance and maintainability  
@@ -11,4 +12,15 @@
 - Work with different datastores such as mysql,mongodb,redis  
 - Architect complex web applications using frameworks and apis  
 - Apigee setup for api’s.  
+```
+
+### I.T Analyst at Tata Consultancy Services
+>  Xerox Corporation  
+>  Location : Webster  
+>  April 2013   
+
+```json
+- Preparation of High level design document for business applications. 
+- Application architecture design. 
+- Single Page application architect mainly using knockoutjs , backbonejs and nodejs
 ```
